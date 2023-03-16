@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(71, 187, 255, 0.267);
+    
+}
+footer {
+    position: fixed;
+    width: 100%;
+   background-color: rgba(12, 12, 31 , 1 );
+   bottom: 0;
+   padding-bottom: 15px;
+   height: 15%;
+   color: red;
+   font-size:x-large;
+ }
